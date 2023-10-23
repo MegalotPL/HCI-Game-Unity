@@ -1,0 +1,2 @@
+Final version: https://play.unity.com/mg/karting/webgl-builds-352376
+Prototype: https://play.unity.com/mg/karting/webgl-builds-352390
