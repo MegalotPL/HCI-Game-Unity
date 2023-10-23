@@ -1,0 +1,1 @@
+The game is published on WebGL build structue, you can vist the bulids by opening the website urls in the txt filde named urlBuild.txt attached to this project. This repository contains only scripts to this project.
